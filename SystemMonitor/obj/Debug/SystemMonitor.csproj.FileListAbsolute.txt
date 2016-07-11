@@ -1,0 +1,9 @@
+D:\MyWorkspace\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+D:\MyWorkspace\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+D:\MyWorkspace\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+D:\MyWorkspace\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csprojResolveAssemblyReference.cache
+D:\MyWorkspace\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.FrSMServer.resources
+D:\MyWorkspace\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Properties.Resources.resources
+D:\MyWorkspace\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.GenerateResource.Cache
+D:\MyWorkspace\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+D:\MyWorkspace\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb

@@ -1,0 +1,10 @@
+D:\MyWorkspace\SystemMonitor\SMClient\bin\Debug\SMClient.exe.config
+D:\MyWorkspace\SystemMonitor\SMClient\bin\Debug\SMClient.exe
+D:\MyWorkspace\SystemMonitor\SMClient\bin\Debug\SMClient.pdb
+D:\MyWorkspace\SystemMonitor\SMClient\obj\Debug\SMClient.FrSettings.resources
+D:\MyWorkspace\SystemMonitor\SMClient\obj\Debug\SMClient.FrSmClient.resources
+D:\MyWorkspace\SystemMonitor\SMClient\obj\Debug\SMClient.Properties.Resources.resources
+D:\MyWorkspace\SystemMonitor\SMClient\obj\Debug\SMClient.csproj.GenerateResource.Cache
+D:\MyWorkspace\SystemMonitor\SMClient\obj\Debug\SMClient.exe
+D:\MyWorkspace\SystemMonitor\SMClient\obj\Debug\SMClient.pdb
+D:\MyWorkspace\SystemMonitor\SMClient\obj\Debug\SMClient.csprojResolveAssemblyReference.cache
